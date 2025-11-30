@@ -2,38 +2,38 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Roman Beauvallet
     - name: Date of Birth
-      value: 14th March 1879
+      value: 21th March 2003
     - name: Languages
-      value: English, German
+      value: French, English, German (beginner), Russian (basic knowledge)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Normalien diploma
+      institution: Ecole Normale Supérieur de Lyon
+      year: 2027
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Diploma of "Normalien" from ENS de Lyon
+    - title: Master's degree
+      institution: Ecole Normale Supérieur de Lyon
+      year: 2026
+      description:
+        - Majoring in Theoretical Physics
+        - Minor in Complex Systems
+        - title: Courseworks
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - Advanced Statistical Physics, Phase transition and critical phenomena, Computational Statistical Physics, Many Body Quantum Physics
+            - Complex systems methods, Computer Science, Mathematics
+    
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Associate
+      institution: Flatiron Institute, Simons Foundation
+      year: May 2025 - August 2025
       description:
         - Description 1.
         - Description 2.
